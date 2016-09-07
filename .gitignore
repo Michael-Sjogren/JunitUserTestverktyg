@@ -49,6 +49,14 @@ Temporary Items
 # =========================
 #Intellij
 
-/bin
+
 /.idea
 /nbproject
+
+*.class
+bin/application/application.css
+bin/application/UserGUI.fxml
+bin/application/UserGuiStyle.css
+bin/production/TestverktygUserFinal/application/application.css
+bin/production/TestverktygUserFinal/application/UserGUI.fxml
+bin/production/TestverktygUserFinal/application/UserGuiStyle.css
